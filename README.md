@@ -1,0 +1,57 @@
+# 🤖 GenAI Resume Analyzer using Gemini API
+
+An AI-powered Resume Analyzer built using Python and Streamlit that compares resumes with job descriptions and provides ATS-style matching scores, missing skills analysis, and resume improvement suggestions.
+
+---
+
+## 🌐 Live Demo
+
+[Click Here to Use the App](https://ai-resume-analyzer-job-matcher-qqxkvzohcrugc2pvql69qx.streamlit.app/)
+
+---
+
+## 🚀 Features
+
+- Upload Resume PDF
+- Paste Job Description
+- ATS Match Score Calculation
+- Skill Extraction
+- Missing Skills Detection
+- Resume Improvement Suggestions
+- Interactive Progress Bar
+- Clean Modern UI
+- NLP-based Text Processing
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- Streamlit
+- Scikit-learn
+- PyPDF2
+- TF-IDF Vectorization
+- Cosine Similarity
+- Regular Expressions (Regex)
+
+---
+
+## 📊 How It Works
+
+1. User uploads a resume in PDF format
+2. User pastes a job description
+3. Resume text is extracted using PyPDF2
+4. TF-IDF converts text into vectors
+5. Cosine Similarity calculates ATS match score
+6. Skills are extracted and compared
+7. Missing skills and suggestions are displayed
+
+---
+
+## 📷 Project Screenshot
+
+<img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/e1c6341f-402d-4c25-af60-d84eb9e34b4a" />
+
+
+---
+
